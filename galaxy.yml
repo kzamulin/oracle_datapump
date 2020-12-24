@@ -1,0 +1,24 @@
+---
+authors:
+  - kzamulin (https://github.com/kzamulin)
+dependencies: {}
+description: Oracle Database Collection for Ansible.
+documentation: ''
+homepage: ''
+issues: https://github.com/kzamulin/oracle_datapump/issues
+license_file: ''
+name: oracle_datapump
+namespace: kzamulin
+readme: README.md
+repository: https://github.com/kzamulin/oracle_datapump
+tags:
+  - oracle
+  - datapump
+  - database
+  - expdp
+  - impdp
+  - export
+  - import
+version: 1.0.0
+build_ignore:
+  - '*.tar.gz'
